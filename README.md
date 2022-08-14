@@ -1,5 +1,6 @@
 # Tons_of_nametags_project-Pyautogui
 - Creater : Yeonghwan Park (John Park)
+- Tools : Python(Pyautogui)
 - Explantion :
 This is the automation's program to make the tons of nametag within short time according to the datas,
 We can save the trouble of wasting time and effort
