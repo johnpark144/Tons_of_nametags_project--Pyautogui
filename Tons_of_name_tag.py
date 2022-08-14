@@ -1,3 +1,10 @@
+# - Creater : Yeonghwan Park (John Park)
+# - Explantion :
+# This is the automation's program to make the tons of nametag within short time according to the datas,
+# We can save the trouble of wasting time and effort
+# - Date of creation : Aug 8th 2022
+
+
 import pyautogui
 
 pyautogui.PAUSE = 0.4 # interval 0.4 secs
