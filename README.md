@@ -5,7 +5,7 @@ This is the automation's program to make the tons of nametag within short time a
 We can save the trouble of wasting time and effort
 - Date of creation : Aug 8th 2022
 
-# files
+# Files
 - Employees_DB.ods : Employees' Excel file
 - NameTag.odp : Nametag Powerpoint file
 - Tons_of_name_tag.py : Main
