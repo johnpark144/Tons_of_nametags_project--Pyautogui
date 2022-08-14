@@ -1,4 +1,11 @@
 # Tons_of_nametags_project-Pyautogui
+- Creater : Yeonghwan Park (John Park)
+- Explantion :
+This is the automation's program to make the tons of nametag within short time according to the datas,
+We can save the trouble of wasting time and effort
+- Date of creation : Aug 8th 2022
+
+# files
 - Employees_DB.ods : Employees' Excel file
 - NameTag.odp : Nametag Powerpoint file
 - Tons_of_name_tag.py : Main
